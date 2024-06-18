@@ -1,0 +1,43 @@
+.Previy 
+{
+display: flex;
+justify-content: center;
+border: 3px solid black;
+}
+* {
+    font-family: Arial;
+    margin:0;
+    padding:0;
+    font-weight:bold;
+}
+
+.hub {
+    border: 3px solid black;
+    width: 450px;
+height: 355px;
+}
+.text_1{
+display: flex;
+}
+.unity {
+    border: 3px solid black;
+    width: 700px;
+height: auto
+}
+.OOP {
+    border: 3px solid black;
+    width: 700px;
+height: auto;
+}
+.skript 
+{
+border: 3px solid black;
+width: 700px;
+height: auto;
+}
+.metod
+{
+    border: 3px solid black;
+    width: 700px;
+    height: auto;
+}
